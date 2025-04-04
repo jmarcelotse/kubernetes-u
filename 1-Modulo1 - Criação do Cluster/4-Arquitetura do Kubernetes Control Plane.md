@@ -188,4 +188,4 @@ Adicionando mais instâncias dos componentes principais e configurando balancead
 ## 9. 🎯 Conclusão
 O Control Plane é, sem dúvida, o componente mais crítico e estratégico dentro do ecossistema Kubernetes. Ele representa o ponto de controle centralizado, responsável por decisões automatizadas que mantêm sua aplicação viva, disponível e performática.
 
-Dominar seu funcionamento é o primeiro grande passo para se tornar um Engenheiro Kubernetes de elite.
+Dominar seu funcionamento é o primeiro grande passo para se tornar um Engenheiro Kubernetes de elite..
